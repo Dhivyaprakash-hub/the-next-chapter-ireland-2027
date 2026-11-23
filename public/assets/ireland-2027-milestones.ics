@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Next Chapter//Ireland 2027 Mission Control//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:ul-ielts-prep-2026@nextchapter2027
+DTSTAMP:20261123T060000Z
+DTSTART;VALUE=DATE:20261215
+SUMMARY:IELTS Band 8.0 Mock Assessment & Exam Booking
+DESCRIPTION:Verify mock scores against Band 8.0 target and lock in IELTS test date for University of Limerick MSc Business Analytics.
+END:VEVENT
+BEGIN:VEVENT
+UID:ul-loan-2027@nextchapter2027
+DTSTAMP:20261123T060000Z
+DTSTART;VALUE=DATE:20270215
+SUMMARY:Education Loan Sanction & Financial Proof Review
+DESCRIPTION:Finalize education loan sanction letter and Irish student visa financial documentation.
+END:VEVENT
+BEGIN:VEVENT
+UID:ul-visa-2027@nextchapter2027
+DTSTAMP:20261123T060000Z
+DTSTART;VALUE=DATE:20270501
+SUMMARY:Irish Student Visa Application Window
+DESCRIPTION:Prepare AVATS application, biometrics, medical insurance, and University of Limerick unconditional offer + €2,500 scholarship letters.
+END:VEVENT
+BEGIN:VEVENT
+UID:ul-departure-2027@nextchapter2027
+DTSTAMP:20261123T060000Z
+DTSTART;VALUE=DATE:20270901
+SUMMARY:THE NEXT CHAPTER — Ireland 2027 (University of Limerick)
+DESCRIPTION:Provisional target departure date for MSc in Business Analytics at the University of Limerick. Don't just count the days. Make the days count.
+END:VEVENT
+END:VCALENDAR
